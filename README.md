@@ -44,5 +44,6 @@ Once you've installed the project and its dependencies, you can run the developm
    ```bash
    npm start
 
+
 This will start the development server, and you can access the website in your browser by navigating to (http://localhost:3000).
 Feel free to modify and customize the code in the src directory
