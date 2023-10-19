@@ -16,7 +16,7 @@ Welcome to the GPT3 Website project! This repository contains a simple React app
 
 You can check out the live demo of this project at [Demo Link](#) (Replace with the actual link to your live website).
 
-![GPT3 Website Screenshot](https://ibb.co/dtDfvLY)
+![GPT3 Website Screenshot](https://i.imgur.com/E6b0yal.png[/img])
 
 ## Getting Started
 
