@@ -9,12 +9,8 @@ Welcome to the GPT3 Website project! This repository contains a simple React app
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Demo
-
-You can check out the live demo of this project at [Demo Link](#) (Replace with the actual link to your live website).
 
 ![GPT3 Website Screenshot](https://i.imgur.com/E6b0yal.png[/img])
 
@@ -32,3 +28,21 @@ To run this project locally on your machine, follow these steps:
 
    ```bash
    git clone https://github.com/XiaoyangJin/React_Practice_Projects.git
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd React_Practice_Projects
+
+3. Install the project dependencies:
+
+   ```bash
+   npm install
+
+### Usage
+Once you've installed the project and its dependencies, you can run the development server:
+   ```bash
+   npm start
+
+This will start the development server, and you can access the website in your browser by navigating to (http://localhost:3000).
+Feel free to modify and customize the code in the src directory
