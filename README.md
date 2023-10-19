@@ -16,7 +16,7 @@ Welcome to the GPT3 Website project! This repository contains a simple React app
 
 You can check out the live demo of this project at [Demo Link](#) (Replace with the actual link to your live website).
 
-![GPT3 Website Screenshot](https://ibb.co/dtDfvLY.png)
+![GPT3 Website Screenshot](https://ibb.co/dtDfvLY)
 
 ## Getting Started
 
@@ -31,4 +31,4 @@ To run this project locally on your machine, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/gpt3-website.git
+   git clone https://github.com/XiaoyangJin/React_Practice_Projects.git
